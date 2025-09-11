@@ -3004,20 +3004,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 <=================== MOVIES/SERIES KBTRTV =============================>
 
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES/SERIES KBTRTV",   Tes
-#EXTVLCOPT:http-origin=https://ap15c2zg.com
-#EXTVLCOPT:http-referrer=https://ap15c2zg.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://fin-3dg-b1.i8yz83pn.com/hls2/02/02712/1wg1lit42ywp_n/index-v1-a1.m3u8?t=tTkaLukMN_ij02uv5QQfQGjbF0izLzAORTybUW_aRAM&s=1755146174&e=10800&f=13561597&srv=27&asn=45305&sp=5500&p=
-
 ========================================================= INDOEVEN ===================================================
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="☆INDO EVEN"
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", AFC1
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", AFC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1

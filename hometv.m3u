@@ -3205,89 +3205,72 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos1.m3u8
 =================================================== FIFA =========================================÷===========
 
 =================================================== LIVE EVEN =========================================÷===========
-#EXTINF:-1 group-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴"
-
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 1
+################liga bri###################
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Semen Padang vs PSBS Biak Numfor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hlsplayer.net/
+https://live.inplyr.com/room/532999.m3u8
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Madura United vs Bhayangkara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=5ca268c9cb2e01e69f349053bcaeb168&wsABSTime=1757446645
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Madura United vs Bhayangkara
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://apisportzz179528093.nsnd.live/LJVOXdzk4fpnICFUBRPo3Q/Fv2lucGIbhPi2caWYvF5Lg/1757700361173/live/sd-6MuTNFj774usnw2sYP/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Madura United vs Bhayangkara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twnx3-cf.boblcfwudz421.com/auth%3D7bb03c89fb1e485a19edb22198cca015ead26d9352d9efa27e8914a935f47a02dc05ae66653525e3cb607de9a3583f9391fbae1b9bc95d34d0b72763c2230d73695ea043592c2862dea192237b1a6edbaa7ac69144889f9a5df3fb8bc62df794f546861b264ceb963f500c75380e602d993bf9d26e989129b33e8750488d8dd6751c750ec966ddafdafa8a269c703acd8e45ba0ff0417b594d1a0f321aead7d252a8b3399e23eae685d77f50763baae9bfe04994398be54fa16fc4bb2a65fa04b699271c946378ace1bb2c177917ab7d%26cid%3Dlx3BndubspSsbh4I0XB_9250912%26_v%3D2%26_r%3Dkp9FXM%26_vis%3D61fc866d103c1e8926b61934004ffdb9dfd128aaaa5675ad49cc93287bd4a7e6%26_vvs%3D20668f616ea4435da111376f930a2f8e8e953a2ba27338bc4355bd179b34931b/transcode/c369872_480p.m3u8
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB PS. Barito Putera vs Kendal Tornado FC
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://apisportzz179528093.nsnd.live/X8070TmFHAcjVduPUic29A/Fv2lucGIbhPi2caWYvF5Lg/1757700654361/live/sd-6MvY6pBSFGiLoPGKY7/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB FC Bekasi City vs PSPS Pekanbaru
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://apisportzz179528093.nsnd.live/rH0yWATFjnIf1OJaedW_jw/Fv2lucGIbhPi2caWYvF5Lg/1757700724216/live/sd-6MvY6pBSFEWrvuSQPD/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB PSMS Medan vs Persekat Tegal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twnx1-cf.boblcfwudz421.com/auth%3D341266f60f25355b139ed1341176565d87cea075e348d918268321937902c409dda2be36f05c680015581256dffbdb2abe516c5478ce8a4a50e2c31bec4b7e873f5c162fc9c796765253b22b1ec86fcc82cb2edda9f5f37a1286f7b11b839b4a985d83203d1f9e7adc4950e443fdf8bb4613f416c75ac25110ac211ab28a6d3f9145bbf26740c2a4a8ec1696013c7e3d25afff1f05db206fc5a3ad573f715d1caeaf4e2a7e898dc6243d1484bb578f3ae474b072c9d1405d9380f85a06decdac9905750588c0504534a3c1537e5d3dfb%26cid%3Dlx3BndubspSsbh4I0XB_9250912%26_v%3D2%26_r%3D8Wbk-f%26_vis%3D9b4b4f63c21d41cc5d22e7bd951235dd78e7b3b0c6a9b01b6b3332f172dac275%26_vvs%3Db75fa5a83967adcd0ae77efbc5f5a25f9aa8866b2c6539178967f5c4b43ff7a8/app/c369826.m3u8
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB PS. Barito Putera vs Kendal Tornado FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twnx1-cf.boblcfwudz421.com/auth%3D192d977c30db91d582bb96e8d3f873e3634f70faf7f8d9615d4b9320cbb2b03e639b2ba089c19e2ad0969a50195ddbc519cdbff389a1e406a93347f0e2cf33286ff3d85518d6118293e3f1c8169c51351ff0bb66b9ffe0bfde8cc69726f6f7509a53e71f46e5ba901ba3a6cba22870cee608baceaafd6cd94f22962e437520457dcc2ab99d12b4f0a38ad02c45e6ebce9056e798e1dc786e61d67e1b42bddedf%26cid%3Dlx3BndubspSsbh4I0XB_9250912%26_v%3D2%26_r%3DLDFpJw%26_vis%3D5792c0d2fc7d36b8904717cbe3b61ffe99923ccfbfa06e0613221b1eee08492b%26_vvs%3Ddcc2c31ebfbedd30a6ff49b72f51726b6224c794de6008427fe8d668a8ffc15a/app/c369829.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="LIVE-EVENT",INDOSIAR
+Farhan@90/18062025/11.ts">https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
+#######$#####$$$$$$$$####################
+#EXTINF:-1 tvg-id="PL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpeX6xrZP32SHBfDPZciY-PHuQqoAaVTsgKqaWxPexGQ&s" group-title="LIVE-EVENT", DENSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+############################################  voli #####$$$$$$$$$$$$
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="LIVE-EVENT",MOJI TV
+Farhan@90/18062025/23.ts">https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=1008&type=drm
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1008
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
-
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 2
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19488&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1010
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
-
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 3
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
-https://cors.jugorder.de/https://lb2-e1-90.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 4
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
-https://cors.jugorder.de/https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 5
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03ddf71c8dae4e8d8b171fb81ecfe609:fc80cf8969cf1b3c2c061eadb94e1330
-https://cors.jugorder.de/https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 6
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
-https://cors.jugorder.de/https://cdn-s-lb2.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 7
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
-https://cors.jugorder.de/https://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0fefd5d94a8cb5b40c057ab182f7dc27:5548c4823ff7f1ea61bafb7cbc19e005
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23986dae03fa883ed8e489cbf70f9ec3:6a42c42732a9dd1da1205971b2c5c535
-https://live-atv-cdn.izzigo.tv/4/out/u/dash/FOX-SPORTS-2-HD/default.mpd
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed8dd7562fd9f9064bed8d52fa42cc11:d65a22cfe5bfbd33d8d25b183649e44f
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 12
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
-https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
-https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben2.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 14
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben3.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 15
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben4.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 16
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
-https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN CONCAF
-https://dto4p9su9kcif.cloudfront.net/out/v1/9215529a621947689739a7671e6dd0d3/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
+https://spacetv.my.id/index.mpd?id=19488&type=dash
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 19:00 WIB Lavani Navy vs DPUPR Alib Grobogan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twnx1-cf.boblcfwudz421.com/auth%3Dc8ee04828242406348a4146184f61fb2b0655aaa8b3415f063ec5f1393651936d31a92ad19b09a7db5974d670a659eb3b778fe3f6847053cef4b817eadb5acb03f6707e7567b48dae776150a9c414f3f1d6f5cfb161fec95dcba0fc0701c55e5705771c3763b029a0af11ffa61370383f69785bae54287bae1a03df3377e75bfc662185f3ac01810bb5946dd69fea7fe86e463ce54a94ec85fe70cd65034a6bf%26cid%3DYvoz9_UXqTEZam7X2zhhz250903%26_v%3D2%26_r%3DFU1Z4d%26_vis%3D94f9070ea17f34ad38d44f89322a74126f32ed1ce345f3025f21b1c92d8b2d0f%26_vvs%3De9854119cbbac3e01891cf7dd280def0cd0686a00fb8991ffd072ead4cbab7bc/app/c369574.m3u8
+##############$$############ timnas #######$$$$#####$$$$$
+#EXTINF:-1 " tvg-id=" GDS" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/RRKqA-C_gfSnlqfHRgyGbfLEvjM=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-d75572.jpg" group-title="LIVE-EVENT", GDS SPORT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 =================================================== BEINGROUP =========================================÷===========
 
 

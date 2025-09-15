@@ -3089,12 +3089,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSOgYHYgY43ADlPwLKXVTE9Oj-INo2K8WcQ&s", 01:00 WIB Al Ittihad(KSA) vs Al-Fateh SC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=e211b92725925ef99a8ad56c7b4f01b5&wsABSTime=1757446757
-
 <=================== Cadangan =============================>
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://asset-2.tribunnews.com/kalteng/foto/bank/originals/Hong-Kong-Open-2025.jpg", A1 LI-NING Hong Kong Open 2025

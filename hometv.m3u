@@ -1168,47 +1168,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ac/2e/94/ac2e94434a2d44814985e4debe9d3ca4.jpg" group-title="》_ENTERTAIN_",BBC One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7
-https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ac/2e/94/ac2e94434a2d44814985e4debe9d3ca4.jpg" group-title="》_ENTERTAIN_",BBC Two
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
-https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ac/2e/94/ac2e94434a2d44814985e4debe9d3ca4.jpg" group-title="》_ENTERTAIN_",BBC Three
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6
-https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ac/2e/94/ac2e94434a2d44814985e4debe9d3ca4.jpg" group-title="》_ENTERTAIN_",BBC Four
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903
-https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/47/d2/92/47d292d59df8e6940e1279f2706454e2.jpg" group-title="》_ENTERTAIN_",NPO 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8cffc0bcab1146e8ac9f2374f2c86811:f725c200771774253a822850f48d1254
-https://nlziet-live.akamaized.net/L14/c8aa2f33/c6c86e9a.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/47/d2/92/47d292d59df8e6940e1279f2706454e2.jpg" group-title="》_ENTERTAIN_",NPO 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a0392c7a18a4cc2b6943208c703eaaa:77b95f41020ad1060569c063870ad795
-https://nlziet-live.akamaized.net/L22/e5f38352/5f2ba234.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/47/d2/92/47d292d59df8e6940e1279f2706454e2.jpg" group-title="》_ENTERTAIN_",NPO 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc94928a16cf49dda6986b97bf0479e2:7c914471a3a26603d730dd6b4f469b50
-https://nlziet-live.akamaized.net/L24/a934509f/dd09fcea.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/47/d2/92/47d292d59df8e6940e1279f2706454e2.jpg" group-title="》_ENTERTAIN_",NPO 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f4ad3856f84c30bf2ce78cc59ad3e0:ba998c3861b03cd98c8edbd5d65a6962
-https://nlziet-live.akamaized.net/L12/92095069/c58ac04e.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/47/d2/92/47d292d59df8e6940e1279f2706454e2.jpg" group-title="》_ENTERTAIN_",NPO 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94967b7bf17f4d14ab7f3bc21dda4916:c5a92ee9dd2c7426abc61fcb8495e61b
-https://nlziet-live.akamaized.net/L24/7b1ef17a/8278691c.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/b2/74/a8/b274a87faddd9aecc2bf963ac2342b59.jpg" group-title="》_ENTERTAIN_",HRT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
-https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
-
-============================================================================================================================================================
+===========================================================================================================================================================
 #EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="TV | Entertainment", Dunia Lain
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect

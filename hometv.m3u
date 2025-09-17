@@ -1232,29 +1232,10 @@ https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.m
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4a/23/df/4a23df62061992bb28fad4917733c75a.jpg" group-title="》_ENTERTAIN_",SURIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+v-1-us.plex.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f1/f6/58/f1f6583310f3cbbb81df430a9244e2a0.jpg" group-title="》_ENTERTAIN_",5 MINUTE CRAFTS
-https://rakutenaa-soul-5mincraftenglish-rakuten-du9p7.amagi.tv/playlist/rakutenAA-soul-5mincraftenglish-rakuten/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f0/4b/25/f04b2516b6f0cb7e8ce7748798d75469.jpg" group-title="》_ENTERTAIN_", GAGS
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/12/ce/e3/12cee3ac5c86c79174b4f554bc9d76a1.jpg" group-title="》_ENTERTAIN_",RTL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
-https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_",RTP 1 
-#EXTVLCOPT:http-user-agent=Wink/1.31.1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
-http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/48/1e/dd/481edd4f8b9e8e23b89bc6871642ffc8.jpg" group-title="》_ENTERTAIN_",BLACKPINK TV
-https://newidco-ygtv-1-us.plex.wurl.tv/3000.m3u8
-Tv Entertainment
+Tv Entertain
 ============================================================================================================================================================
 #EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="TV | Entertainment", Dunia Lain
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000

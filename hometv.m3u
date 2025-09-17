@@ -3599,6 +3599,39 @@ https://raw.githubusercontent.com/Iqbalbala/TVINTEK/refs/heads/main/Live.m3u8
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos2.m3u8
 EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",LIVE ONLY 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos1.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg" group-title="EVENT | Liga Indinesia"
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguV4d3P8K_s7FYqsgcIXy1BIFKQMGtxtgkAJE97Y7Ev5vZmitEUDrsLYM&s=10" group-title="☆INDO EVEN", LIGA BRI VIDIO 1
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=205&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=205&type=dash
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguV4d3P8K_s7FYqsgcIXy1BIFKQMGtxtgkAJE97Y7Ev5vZmitEUDrsLYM&s=10" group-title="☆INDO EVEN", LIGA BRI VIDIO 2
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=19354&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=19354&type=dash
+#EXTINF:-1 group-title="☆INDO EVEN" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",LIGA BRI SUPER LEAGUE
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/56/56.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="☆INDO EVEN", TIMNAS 1
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="EVENT | Liga Indinesia", TIMNAS 2
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas2.m3u8
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="EVENT | Liga Indinesia", INDOSIAR 1
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="☆INDO EVEN", INDOSIAR 2
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV2.m3u8
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="☆INDO EVEN", SCTV
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/sctvTV.m3u8
 
 =================================================== FIFA =========================================÷===========
 

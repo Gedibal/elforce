@@ -3412,9 +3412,8 @@ https://spacetv.my.id/index.mpd?id=19497&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", BRI 1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", BRI 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://my.bhianesse.xyz/A1/kontol1/350972
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="☆INDO EVEN", BRI 2
+http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", BRI 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", BRI 4

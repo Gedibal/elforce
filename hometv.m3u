@@ -845,6 +845,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+#EXTINF:-1 group-title="KIDS"  tvg-logo="https://i.ibb.co.com/ym6kPq52/IMG-20250529-035435.png",TOM & JERRY
+http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.ts
 
 ===================================================== RELIGI =========================================================
 

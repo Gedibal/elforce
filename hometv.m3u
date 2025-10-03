@@ -3520,20 +3520,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 ############################################  voli #####$$$$$$$$$$$$
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="LIVE-EVENT",MOJI TV
 Farhan@90/18062025/23.ts">https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19488&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
-https://spacetv.my.id/index.mpd?id=19488&type=dash
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 19:00 WIB Lavani Navy vs DPUPR Alib Grobogan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-https://twnx1-cf.boblcfwudz421.com/auth%3Dc8ee04828242406348a4146184f61fb2b0655aaa8b3415f063ec5f1393651936d31a92ad19b09a7db5974d670a659eb3b778fe3f6847053cef4b817eadb5acb03f6707e7567b48dae776150a9c414f3f1d6f5cfb161fec95dcba0fc0701c55e5705771c3763b029a0af11ffa61370383f69785bae54287bae1a03df3377e75bfc662185f3ac01810bb5946dd69fea7fe86e463ce54a94ec85fe70cd65034a6bf%26cid%3DYvoz9_UXqTEZam7X2zhhz250903%26_v%3D2%26_r%3DFU1Z4d%26_vis%3D94f9070ea17f34ad38d44f89322a74126f32ed1ce345f3025f21b1c92d8b2d0f%26_vvs%3De9854119cbbac3e01891cf7dd280def0cd0686a00fb8991ffd072ead4cbab7bc/app/c369574.m3u8
 ##############$$############ timnas #######$$$$#####$$$$$
 #EXTINF:-1 " tvg-id=" GDS" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/RRKqA-C_gfSnlqfHRgyGbfLEvjM=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-d75572.jpg" group-title="LIVE-EVENT", GDS SPORT
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)

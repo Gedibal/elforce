@@ -3475,7 +3475,7 @@ https://raw.githubusercontent.com/Iqbalbala/TVINTEK/refs/heads/main/Live.m3u8
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos2.m3u8
 EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",LIVE ONLY 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos1.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg" group-title="EVENT | Liga Indinesia"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg" group-title="☆INDO EVEN"
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguV4d3P8K_s7FYqsgcIXy1BIFKQMGtxtgkAJE97Y7Ev5vZmitEUDrsLYM&s=10" group-title="☆INDO EVEN", LIGA BRI VIDIO 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3496,7 +3496,7 @@ https://vidd.semar.my.id/koneksi.php?id=19354&type=dash
 https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="EVENT | Liga Indinesia", TIMNAS 2
 https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas2.m3u8
-#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="EVENT | Liga Indinesia", INDOSIAR 1
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="☆INDO EVEN", INDOSIAR 1
 https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="☆INDO EVEN", INDOSIAR 2
 https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV2.m3u8

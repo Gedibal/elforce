@@ -3363,6 +3363,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/19026/index.m3u8
 ========================
 ========================================================= INDOEVEN ===================================================
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", Semen Padang vs Bali United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB Persela Lamongan vs Persipura Jayapura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4329465_1.m3u8?hls_ctx=f641k81x&sign=DqNnIL2CBD_6JvGTuTSpPVFmSavh4M0RDZ7iyp5BGT_S6HPZfxhmQsB2aAWwepanZ3zgsv2w_raV2dP_SXJd04OWfuAsF_JPyYGjV1FyCFnFBvSMK0anJa-QGlIbDc-4Gsn4fSJra2HVpznqiHQwGdVErv3TiE2MMucX6cCqi8vX9tjq_27E4KJFrTBrE-P58rTLMlFwOup2PT4WDF7luAiatE1Pzl7WLBPINJoIon0achZvXGiJB6v4Vs9Oy4AGzINccJTy7nuKWWWUAZuW-JcoEAhjfUAf_CX4Pw0z3DMyTKdo8F0-7zGC9MGBmvmc5vnp8-XrBj2-eVuHpsPIyQ&timestamp=1759752673840
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", AFC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1

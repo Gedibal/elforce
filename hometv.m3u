@@ -3512,6 +3512,16 @@ https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/sctvTV.m3u8
 
 =================================================== LIVE EVEN =========================================÷===========
 ################liga bri###################
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", Semen Padang vs Bali United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB Persela Lamongan vs Persipura Jayapura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4329465_1.m3u8?hls_ctx=f641k81x&sign=DqNnIL2CBD_6JvGTuTSpPVFmSavh4M0RDZ7iyp5BGT_S6HPZfxhmQsB2aAWwepanZ3zgsv2w_raV2dP_SXJd04OWfuAsF_JPyYGjV1FyCFnFBvSMK0anJa-QGlIbDc-4Gsn4fSJra2HVpznqiHQwGdVErv3TiE2MMucX6cCqi8vX9tjq_27E4KJFrTBrE-P58rTLMlFwOup2PT4WDF7luAiatE1Pzl7WLBPINJoIon0achZvXGiJB6v4Vs9Oy4AGzINccJTy7nuKWWWUAZuW-JcoEAhjfUAf_CX4Pw0z3DMyTKdo8F0-7zGC9MGBmvmc5vnp8-XrBj2-eVuHpsPIyQ&timestamp=1759752673840
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="LIVE-EVENT",INDOSIAR
 Farhan@90/18062025/11.ts">https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 #######$#####$$$$$$$$####################

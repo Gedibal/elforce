@@ -472,6 +472,202 @@ https://popmi.my.id/tes.m3u8?id=7218
 ============== VIP | Video end ============
 
 
+d77ae5093ad2e6699dc/index.mpd
+=== GALAXY ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_galaxy_big1.png" group-title="Movies", Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zlfJSQvXcrOQ14uf7a+NNg", "kid":"z7rll5UERWO1ubSSenmnbg" } ], "type":"temporary" }
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+=== GALAXY PREMIUM ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_galaxypremium_big.png" group-title="Movies", Galaxy Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MDBFM7UAitfzPCXyJVBrwA", "kid":"DZU52yQATamsNupJoJ4lXA" } ], "type":"temporary" }
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+=== CINEMAX ===
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0LHJj/cinemax.png" group-title="Movies", Cinemax
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LG3nlpVHef1vUVhEJayDTg", "kid":"tIkTazSqQWapyZhPGRVdMA" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+##EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0LHJj/cinemax.png" group-title="Movies", Cinemax
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://cvbmv.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+##https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+##https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
+=== HBO ===
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nb5SLjV/hbo.png" group-title="Movies", HBO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"49LkhD/631EPbJFmigPhgw", "kid":"If/KEIEFQq+XNLgvQADCdA" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id:443/live/eds/HBOHD/mpd/HBOHD.mpd
+##EXTINF:-1 tvg-logo="https://i.ibb.co.com/nb5SLjV/hbo.png" group-title="Movies", HBO
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://cvbmv.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+##https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+=== HBO HITS ===
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MSQZsVq/hbohits.png" group-title="Movies", HBO Hits
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5jfmvhIx4UpnASCyPa4aCw", "kid":"R6fvNwgaSrWTfJQnLZmItg" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+##EXTINF:-1 tvg-logo="https://i.ibb.co.com/MSQZsVq/hbohits.png" group-title="Movies", HBO Hits
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://cvbmv.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+##https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+=== HBO SIGNATURE ===
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fY6vfXW/hbosig.png" group-title="Movies", HBO Signature
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BEeYziN3LRSFnDBqimsz8w", "kid":"UmOiS+EITymxkNmKUuMDhA" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+##EXTINF:-1 tvg-logo="https://i.ibb.co.com/fY6vfXW/hbosig.png" group-title="Movies", HBO Signature
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://cvbmv.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+##https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+=== HBO FAMILY ===
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NpnGDGs/hbofam.png" group-title="Movies", HBO Family
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HPfgylT2+KhPmaBgfA387g", "kid":"w3QJhgmXT/Wh2w8jAAmAkg" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+##EXTINF:-1 tvg-logo="https://i.ibb.co.com/NpnGDGs/hbofam.png" group-title="Movies", HBO Family
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://cvbmv.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+##https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+=== HITS ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hits_ver1.png" group-title="Movies", HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6MF4qIXRoeBCyjTsXqO5OA", "kid":"np2coruBTem/1z18Gb/hkA" } ], "type":"temporary" }
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hits_ver1.png" group-title="Movies", HITS
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5w5rCTkwRT0dxmqw4lkTGg", "kid":"UwyyKU5HTh+RBJg2Oow4ZA" } ], "type":"temporary" }
+##https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+=== HITS MOVIE ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsmovie_ver1.png" group-title="Movies", HITS Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ErZrN02cgE9zEctqjUIcjA", "kid":"B6+c4F2PSWChuRE+f9uOfg" } ], "type":"temporary" }
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsmovie_ver1.png" group-title="Movies", HITS Movies
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LRVDZoQRsxrscmnYidSCHA", "kid":"EqNPzKyUShmhQQGpAJ2uBQ" } ], "type":"temporary" }
+##https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+=== IMC ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_big.png" group-title="Movies", IMC
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc720/manifest.mpd
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_big.png" group-title="Movies", IMC
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+##EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P5GV3EaNM3L2nGvsW/p1uw", "kid":"oExz6V7rQR2ry6jDWlpY6A" } ], "type":"temporary" }
+##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+=== STUDIO UNIVERSAL ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1725346944_STUDIOUNIVERSAL-OTT-88-WARNA.png" group-title="Movies", Studio Universal
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1725346944_STUDIOUNIVERSAL-OTT-88-WARNA.png" group-title="Movies", Studio Universal
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+##EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v7z8uBN91WWn9LXOeADB8A", "kid":"tKezKJ7/ST2HAL7PLioRVw" } ], "type":"temporary" }
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+=== THRILL ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_thrill_big.png" group-title="Movies", Thrill
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_thrill_big.png" group-title="Movies", Thrill
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+##EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"boKHZHTfAlw5roBLpzj/Fw", "kid":"P/qzRxqZRTW99/xmN5Lwiw" } ], "type":"temporary" }
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_thrill_big.png" group-title="Movies", Thrill
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
+=== TVN MOVIES ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png" group-title="Movies", TVN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HQvZTqtdX1apULeE2TRUOQ", "kid":"F/tWPHhISPCdih6oii+piQ" } ], "type":"temporary" }
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png" group-title="Movies", TVN Movies
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8
+=== WARNER TV ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_ver1.png" group-title="Movies", Warner TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+=== MAXSTREAM ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" group-title="Movies", Maxstream
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+=== MY CINEMA ===
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png" group-title="Movies", My Cinema
+##EXTVLCOPT:http-referrer=https://www.dens.tv/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##https://kingtvpremium.my.id/itilbawi/dens/index.m3u8?id=95
+=== MY CINEMA ASIA ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_new-mycinemaasia_small.png" group-title="Movies", My Cinema Asia
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+=== MY FAMILY CHANNEL ===
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_myfamily_ver1.png" group-title="Movies", My Family
+##EXTVLCOPT:http-referrer=https://www.dens.tv/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##https://kingtvpremium.my.id/itilbawi/dens/index.m3u8?id=114
+=== MY CINEMA EUROPE ===
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b1FQ0kS/mce.png" group-title="Movies", My Cinema Europe
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+=== ZEE BIOSKOP ===
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_zbioskop_big1.png" group-title="Movies", Zee Bioskop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"maYiVpGqZp8PImd7RTZwXg", "kid":"OY7xTscBStiudUFKfv0qDw" } ], "type":"temporary" }
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+***
 
 ==============Knowledge===============
 <================ Knowledge & Documentary ==========================>

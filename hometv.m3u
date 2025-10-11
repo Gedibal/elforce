@@ -65,6 +65,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:0 group-title="BOLA | KUALIFIKASI PIALA DUNIA" tvg-id="IL: Erez Nehederet HD" tvg-logo="http://troya.tv/images/chIcons/2544.png",5Sport Israel
+https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/video_5761024_p_0.m3u8
+
+
 
 
 =================

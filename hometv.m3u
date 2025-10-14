@@ -549,60 +549,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/88_TVNMOVIES_2025_03_17_14_59_45.png",tvN Movies
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/88_ZEEBIOSKOP_2025_03_17_15_04_16.png",Zee Bioskop
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_403.png",Buddy Star
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_402.png",Cineedge
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_401.png",Originals
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_404.png",Superrix
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_405.png",Uniques
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.transvision.co.id/img/channel/cinemax_new.png",CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJpdGNvcmUubWFzdGVyX3N0MkB0cnYuY28uaWQiLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU1tUTBZamc1TURRdFpqRm1aQzAwTkdJeUxXRTNPRE10T1RSalpUVTVPREprWVRjNUlpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UYzBOVE0zWm1Oa01ERTNOR0ZtTmpjMU5tRTVOREk0T0NJc0luUnBiV1Y2YjI1bElqb2lRVzFsY21sallTOURhR2xqWVdkdklpd2lZWFYwYUc5eWFYUjVJam9pVWs5TVJWOVZVMFZTSWl3aVpYaHdJam94TnpZd01EZzRPVE13TENKMWMyVnlTV1FpT2lJeVl6bG1PR1k0TmprNE1USXdObUV5TURFNU9ERXlZVFpoWldSbE5qRmtOQ0lzSW1SbGRtbGpaVWxrSWpvaU1USXpORFUyTnpnNU1DSXNJbWxoZENJNk1UYzJNREF3TWpVek1Dd2lkWE5sY201aGJXVWlPaUpwZEdOdmNtVXViV0Z6ZEdWeVgzTjBNa0IwY25ZdVkyOHVhV1FpZlEuV0V0X00wVE91cDl5WFAxWHo3X2FyeWFDRko4clEzaE9DVEVkREstX1o2OCIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.transvision.co.id/img/channel/hbo.png",HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJpdGNvcmUubWFzdGVyX3N0MkB0cnYuY28uaWQiLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU1tUTBZamc1TURRdFpqRm1aQzAwTkdJeUxXRTNPRE10T1RSalpUVTVPREprWVRjNUlpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UYzBOVE0zWm1Oa01ERTNOR0ZtTmpjMU5tRTVOREk0T0NJc0luUnBiV1Y2YjI1bElqb2lRVzFsY21sallTOURhR2xqWVdkdklpd2lZWFYwYUc5eWFYUjVJam9pVWs5TVJWOVZVMFZTSWl3aVpYaHdJam94TnpZd01EZzRPVE13TENKMWMyVnlTV1FpT2lJeVl6bG1PR1k0TmprNE1USXdObUV5TURFNU9ERXlZVFpoWldSbE5qRmtOQ0lzSW1SbGRtbGpaVWxrSWpvaU1USXpORFUyTnpnNU1DSXNJbWxoZENJNk1UYzJNREF3TWpVek1Dd2lkWE5sY201aGJXVWlPaUpwZEdOdmNtVXViV0Z6ZEdWeVgzTjBNa0IwY25ZdVkyOHVhV1FpZlEuV0V0X00wVE91cDl5WFAxWHo3X2FyeWFDRko4clEzaE9DVEVkREstX1o2OCIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJpdGNvcmUubWFzdGVyX3N0MkB0cnYuY28uaWQiLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU1tUTBZamc1TURRdFpqRm1aQzAwTkdJeUxXRTNPRE10T1RSalpUVTVPREprWVRjNUlpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UYzBOVE0zWm1Oa01ERTNOR0ZtTmpjMU5tRTVOREk0T0NJc0luUnBiV1Y2YjI1bElqb2lRVzFsY21sallTOURhR2xqWVdkdklpd2lZWFYwYUc5eWFYUjVJam9pVWs5TVJWOVZVMFZTSWl3aVpYaHdJam94TnpZd01EZzRPVE13TENKMWMyVnlTV1FpT2lJeVl6bG1PR1k0TmprNE1USXdObUV5TURFNU9ERXlZVFpoWldSbE5qRmtOQ0lzSW1SbGRtbGpaVWxrSWpvaU1USXpORFUyTnpnNU1DSXNJbWxoZENJNk1UYzJNREF3TWpVek1Dd2lkWE5sY201aGJXVWlPaUpwZEdOdmNtVXViV0Z6ZEdWeVgzTjBNa0IwY25ZdVkyOHVhV1FpZlEuV0V0X00wVE91cDl5WFAxWHo3X2FyeWFDRko4clEzaE9DVEVkREstX1o2OCIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJpdGNvcmUubWFzdGVyX3N0MkB0cnYuY28uaWQiLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU1tUTBZamc1TURRdFpqRm1aQzAwTkdJeUxXRTNPRE10T1RSalpUVTVPREprWVRjNUlpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UYzBOVE0zWm1Oa01ERTNOR0ZtTmpjMU5tRTVOREk0T0NJc0luUnBiV1Y2YjI1bElqb2lRVzFsY21sallTOURhR2xqWVdkdklpd2lZWFYwYUc5eWFYUjVJam9pVWs5TVJWOVZVMFZTSWl3aVpYaHdJam94TnpZd01EZzRPVE13TENKMWMyVnlTV1FpT2lJeVl6bG1PR1k0TmprNE1USXdObUV5TURFNU9ERXlZVFpoWldSbE5qRmtOQ0lzSW1SbGRtbGpaVWxrSWpvaU1USXpORFUyTnpnNU1DSXNJbWxoZENJNk1UYzJNREF3TWpVek1Dd2lkWE5sY201aGJXVWlPaUpwZEdOdmNtVXViV0Z6ZEdWeVgzTjBNa0IwY25ZdVkyOHVhV1FpZlEuV0V0X00wVE91cDl5WFAxWHo3X2FyeWFDRko4clEzaE9DVEVkREstX1o2OCIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 
 ==============Knowledge===============
 <================ Knowledge & Documentary ==========================>

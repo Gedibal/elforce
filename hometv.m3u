@@ -3335,26 +3335,6 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 http://xtv.ooo:8080/live/MuhammadMPT/433289/350972.ts##############$$############ timnas #######$$$$#####$$$$$
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFviODVI4Qkupxv_VINLouvPSfsdI7_JYPA&s", Indonesia VS Denmark
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 " tvg-id=" GDS" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/RRKqA-C_gfSnlqfHRgyGbfLEvjM=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-d75572.jpg" group-title="LIVE-EVENT", GDS SPORT
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-EXTINF:-1 group-title="EVENT 13/OKTOBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Indonesia U-23 vs India U-23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ppdd06.playerktidfintkd.shop
-#EXTVLCOPT:http-referrer=https://ppdd06.playerktidfintkd.shop/
-https://t2nt3-cf.wooblzlhl524.com/auth%3D6988a9000c24e9b4803e29e036a39d1cc1dd4b1ac0d76809edb4ab1879b2e2d3c4cc2f0e8d84ba97a654ab3930672c7dbda2e71ff90a26c5e1dbbfc362816365a194d5f2f2ebff71e87a9b793b2db97d6083af2ac4fb2b6708a75216636ac0155c1e4c61bc013f48b390d68e2abec9cc56133665ee4188e6160a156edb53bddcd65da9dc6e64a6e2937694f97f41674dba24a933c124d8ac121a02a7e1b6f3fbbe5adcef2c1dac8ea93f53565eba2973e596ef051ae3b0453914c20fa62a6939557e05850b3d0ca76d9d28e2adf5af714220eb85058e2692c7c75564ed8f42ba84afc00bb6e4bea7c2564e5c72e83c36d32fc9658bbb4b127793788b8a5a23ce6e722d9a2480d39b30191027a3dc192462673ac9410ef246f7e646b72d200a04%26cid%3D07odVmaiOjRjc8Zm1dhdZ251012%26_v%3D2%26_r%3D36uIJb%26_vis%3Dc94902a6a79cb8439d2dd0f3f0715d7eb84c007df1588afe0a5b4abac0a80c87%26_vvs%3D73bacd524f7acb42f0ef68dca0eb39e6a0f89b893839a3acd3795815202acc39/transcode/c376204_480p.m3u8
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Indonesia U-23 vs India U-23
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://apisportzz179528093.nsnd.live/5-30S57YVGuNztgqadWNyw/Fv2lucGIbhPi2caWYvF5Lg/1760382359547/live/sd-6MvYbMXEmwjhazypfd/chunklist.m3u8
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Indonesia U-23 vs India U-23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=ac7f11b1b73594b1539e9a3608b2310f&wsABSTime=1760377178
 
 ##################### 
 

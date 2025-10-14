@@ -3609,7 +3609,9 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
 https://play-cdn.sportsbal.com/sport/202_4329465_1.m3u8?hls_ctx=f641k81x&sign=DqNnIL2CBD_6JvGTuTSpPVFmSavh4M0RDZ7iyp5BGT_S6HPZfxhmQsB2aAWwepanZ3zgsv2w_raV2dP_SXJd04OWfuAsF_JPyYGjV1FyCFnFBvSMK0anJa-QGlIbDc-4Gsn4fSJra2HVpznqiHQwGdVErv3TiE2MMucX6cCqi8vX9tjq_27E4KJFrTBrE-P58rTLMlFwOup2PT4WDF7luAiatE1Pzl7WLBPINJoIon0achZvXGiJB6v4Vs9Oy4AGzINccJTy7nuKWWWUAZuW-JcoEAhjfUAf_CX4Pw0z3DMyTKdo8F0-7zGC9MGBmvmc5vnp8-XrBj2-eVuHpsPIyQ&timestamp=1759752673840
-
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="LIVE-EVENT",LigaBRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://popmi.my.id/tes.m3u8?id=205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="LIVE-EVENT",INDOSIAR
 Farhan@90/18062025/11.ts">https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 #######$#####$$$$$$$$####################

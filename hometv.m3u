@@ -3331,7 +3331,8 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
 https://spacetv.my.id/index.mpd?id=19488&type=dash
 #EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR Digital
-http://xtv.ooo:8080/live/MuhammadMPT/433289/350972.ts##############$$############ timnas #######$$$$#####$$$$$
+http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8 
+##############$$############ timnas #######$$$$#####$$$$$
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 

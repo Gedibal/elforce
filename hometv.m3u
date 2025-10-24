@@ -3329,17 +3329,24 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
 https://spacetv.my.id/index.mpd?id=19488&type=dash
 #EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR Digital
-http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8 
+http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8
+
 ##############$$############ Alternatif liga BRI #######$$$$#####$$$$$
 
 #EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134616_ea998238.png",19:00 24/10 Persepam Madura Utd vs Persija  HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/2444.png",19:00 24/10 Persepam Madura Utd vs Persija (blvtoptop)
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/2444.png",19:00 24/10 Persepam Madura Utd vs Persija
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/2444.png",19h00 24/10 Persepam Madura Utd vs Persija (blvtoptop) Lil Shady
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/4232.png",15:30 24/10 PSBS Biak Numfor vs Persebaya Surabaya (blvtoptop) CHAIEN
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
 ##################### 
 
 <=================== Cadangan =============================>

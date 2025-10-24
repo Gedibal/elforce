@@ -3330,11 +3330,16 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
 https://spacetv.my.id/index.mpd?id=19488&type=dash
 #EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR Digital
 http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8 
-##############$$############ Alternati liga BRI #######$$$$#####$$$$$
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://img.thesports.com/football/team/b2004093bf25a5a8d1768970d6e49d71.png",19:15 23/10 Persib Bandung vs Selangor FC 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/livehd/54e87657133d80fde5abd7f9a1d2fa5c/playlist.m3u8
+##############$$############ Alternatif liga BRI #######$$$$#####$$$$$
+
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134616_ea998238.png",19:00 24/10 Persepam Madura Utd vs Persija  HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/2444.png",19:00 24/10 Persepam Madura Utd vs Persija (blvtoptop)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
+
 ##################### 
 
 <=================== Cadangan =============================>

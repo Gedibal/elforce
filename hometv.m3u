@@ -3343,7 +3343,10 @@ https://cyber.chuoichien.tv/chuoilua/index.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Bali United vs Persita
 https://shorter.me/B3a8t
-
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Bali_United_logo.svg",19:00 25.10 Bali United vs Persita Tangerang
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v2a1/mono.m3u8
 ===========================================================
 
 <=================== Cadangan =============================>

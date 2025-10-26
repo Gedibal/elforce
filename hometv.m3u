@@ -3338,7 +3338,32 @@ http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8
 #EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/2443.png",15:30 27/10 Bhayangkara FC vs Persijap 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
+
+
 ===========================================================
+
+=============== Badminton =========
+
+#EXTINF:-1  group-title="BADMINTON" tvg-logo="https://thumbor.prod.vidiocdn.com/P9uQyfmfVpxojQyM4oDvXqKXdoE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/totalenergies-bwf-world-championships-2025-round-of-32-court-1-9c3b81.jpg",BWF World Championships CH1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1  group-title="BADMINTON" tvg-logo="https://thumbor.prod.vidiocdn.com/P9uQyfmfVpxojQyM4oDvXqKXdoE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/totalenergies-bwf-world-championships-2025-round-of-32-court-1-9c3b81.jpg",BWF World Championships CH2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#EXTINF:-1  group-title="BADMINTON" tvg-logo="https://thumbor.prod.vidiocdn.com/P9uQyfmfVpxojQyM4oDvXqKXdoE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/totalenergies-bwf-world-championships-2025-round-of-32-court-1-9c3b81.jpg",BWF World Championships CH3
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/fIw6JnbnXylR0j2jBfN26Q/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may24/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/XV29fePd_OlVLB6nMlx-5A/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may241/chunklist.m3u8
+
+================== Badminton end =========
+
 
 <=================== Cadangan =============================>
 

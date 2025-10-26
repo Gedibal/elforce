@@ -3335,20 +3335,9 @@ http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8
 
 ##############$$############ Alternatif liga BRI #######$$$$#####$$$$$
 
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134615_6b83f5fd.png",15h30 26/10 Arema FC vs Pusamania Borneo (Chuối Chiên) HD
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/2443.png",15:30 27/10 Bhayangkara FC vs Persijap 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134615_6b83f5fd.png",15:30 26/10 Arema FC vs Pusamania Borneo (Chuối Chiên) HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Bali United vs Persita
-https://shorter.me/B3a8t
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Bali_United_logo.svg",19:00 25.10 Bali United vs Persita Tangerang
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v2a1/mono.m3u8
+https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
 ===========================================================
 
 <=================== Cadangan =============================>

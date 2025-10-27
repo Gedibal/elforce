@@ -3338,7 +3338,10 @@ http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8
 #EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzdlNzdmMjQ5YzMtYzlhMQ/Mzc2N2FjMGMxOTMtZTQwNw.png",IDN D1 Persib Bandung vs Persis Solo FC BLV FANTA (Colalive)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/71426314.m3u8
-
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134451_f0892f53.png",19:00 27/10 Persib Bandung vs Persis Solo
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m4x3.flv
 
 ===========================================================
 

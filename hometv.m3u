@@ -3668,14 +3668,7 @@ https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN CONCAF
 https://dto4p9su9kcif.cloudfront.net/out/v1/9215529a621947689739a7671e6dd0d3/index.m3u8
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI Superleague
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/1ef28ecaa4616415fa74157c225e5141/1760983710013/as9xexm/index.m3u8#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI Superleague
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/03a66fa5d5f5f7d01d09e31c7c8f7e9e/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png", group-title="LIVE-EVENT", SIN PO TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=19046

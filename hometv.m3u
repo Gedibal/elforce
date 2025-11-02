@@ -3334,17 +3334,18 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8
 
 ##############$$############ Alternatif liga BRI #######$$$$#####$$$$$
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/4235.png",15:30 31/10 PSIM Yogyakarta vs Persik Kediri
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134616_ffeccce1.png",15:30 02/11 PSM Makassar vs Persepam Madura Utd HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15:30 31/10 PSIM Yogyakarta vs Persik Kediri 
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15:30 02/11 FC Bekasi City vs Persikad Depok 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1RK.flv
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija vs PSBS Biak Numfor
-https://shorter.me/Ufuot
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija vs PSBS Biak Numfor
-https://shorter.me/dkftX
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m202nd/playlist.m3u8 
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://img.thesports.com/football/team/5272a437f88484ca47cecce5fb3b8c02.png",15:30 02/11 Sumsel United vs Sriwijaya FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m203nd/playlist.m3u8 
 
 ===========================================================
 

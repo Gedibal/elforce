@@ -71,7 +71,8 @@ https://play-cdn.sportsbal.com/sport/202_4279863_1.m3u8?hls_ctx=asm968sd&sign=NT
 https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
 
 =============================== U17 world cup ================
-
+#EXTINF:0 group-title="World Cup U-17" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",Sport 2 Israel
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:b5:9b:e8&stream=260744&extension=ts&play_token=ruME7VcA6G
 
 
 =================

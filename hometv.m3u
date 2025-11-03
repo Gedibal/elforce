@@ -70,13 +70,17 @@ https://play-cdn.sportsbal.com/sport/202_4279863_1.m3u8?hls_ctx=asm968sd&sign=NT
 #EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
 https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
 
+=============================== U17 world cup ================
+#EXTINF:0 group-title="World Cup Uu-17" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",Sport 2 Israel
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=37696&extension=ts&play_token=gwU24LgMtt
+
+
 =================
 END KUALIFIKASI PIALA DUNIA
 =================
-==========
-######################################
-#############  National  #############
-######################################
+
+======================================================
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 

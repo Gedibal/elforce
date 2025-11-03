@@ -3341,6 +3341,15 @@ http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8
 #EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://sta.vnres.co/file/common/20251031/cdda61330490dbde9169fa079afc2a24.jpg",15:30 03/11 Persijap Jepara vs Malut United 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=328bdbc0e4a42c623b471a7d3efae1b2&txTime=6908c34c 
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134619_bc4bb642.png",19:00 03/11 Semen Padang vs Arema FC 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilua/index.m3u8
+EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134619_bc4bb642.png",19:00 03/11 Semen Padang vs Arema FC HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
+
 
 ===========================================================
 

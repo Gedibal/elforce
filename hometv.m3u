@@ -72,7 +72,7 @@ https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
 
 =============================== U17 world cup ================
 #EXTINF:0 group-title="World Cup U-17" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",Sport 2 Israel
-http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:b5:9b:e8&stream=260744&extension=ts&play_token=ruME7VcA6G
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37696&extension=ts&play_token=gwU24LgMtt
 #EXTINF:-1 tvg-id="TSN 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="World Cup U-17",TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey

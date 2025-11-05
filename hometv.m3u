@@ -88,8 +88,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/356598
 #EXTINF:-1 tvg-id="" tvg-name="CazéTV 01" tvg-logo="https://www.fontedecanais.app/logos/canais/cazetv.png" group-title="World Cup U-17",CazéTV 01
 http://seven7play.top:80/JOTAXVI123/Senha1234/1757.ts
-#EXTINF:-1 tvg-id="amazonukeuropsortxtra5" tvg-name="Amazon UK Europsort XTRA 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Prime_Video_logo_%282024%29.svg/225px-Prime_Video_logo_%282024%29.svg.png" group-title="World Cup U-17",Amazon UK Europsort XTRA 5
-http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/740608.ts
+
 #EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", FIFA+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash

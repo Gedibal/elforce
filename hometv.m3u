@@ -90,11 +90,31 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/356598
 http://seven7play.top:80/JOTAXVI123/Senha1234/1757.ts
 #EXTINF:-1 tvg-id="amazonukeuropsortxtra5" tvg-name="Amazon UK Europsort XTRA 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Prime_Video_logo_%282024%29.svg/225px-Prime_Video_logo_%282024%29.svg.png" group-title="World Cup U-17",Amazon UK Europsort XTRA 5
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/740608.ts
-#EXTINF:0 group-title="World Cup U-17" tvg-logo="https://cdn.rapid-api.icu/football/team/a222bcd619abdcee951b28cae8d1cce6.png",22:45 04/11 Indonesia U17 vs Zambia U17 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/540eac751f92b22cd131853f2e9de554/playlist.m3u8
-
+#EXTM3U
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", FIFA+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=424EKsfJFusVFCDE4idBjd5Tr8ejzlnUdGaSSfOyqfBefcGBrLxpVm-bCq2zNouG173jIzQSPxXa6N5MHjX_k5LP1tA-9kTaU37mXP84yJo=
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", FIFA+ 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=oIPIC864-46-8-U9LWLA0mN_6uFe9tyQfVMwUsyNpzv1G1c4sIUuOdvXRirO-_DqSmJ2fixxSHoI374vJKGIUD_aK1hSxyNiPIxz9x0g-wc=
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_05_23_0fd6da8e-8518-4ad0-90b7-162de2c1e30d/PROD_CMAF_CENC/index-dash.mpd
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", FIFA+ 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=6lp957Viz7E4H0RzbJ1qCx3H5SZGz0_TbzXVoiMGimS2pU-pDWdEJ1T6_dFlmX3DfXLVPpROwTSKb65aQv5aTKuS72RMdqXJPStoWQc-uvY=
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_03_41_7526c02d-4c1e-4885-b4eb-2a8902242b47/PROD_CMAF_CENC/index-dash.mpd
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", FIFA+ 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=UkvBoO2Yzw0JteUuGpZGgVRrQ_tXotrYcNeRGomw9tJxJ5Fdc20dvQ9dpJTRGSqdems7U_JSs9DGQDXNxpc76r6X61od3XiF5Za7Vy9rUqk=
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_01_27_75975662-5155-43a6-abd5-f1482762cfcb/PROD_CMAF_CENC/index-dash.mpd
 =================
 END KUALIFIKASI PIALA DUNIA
 =================

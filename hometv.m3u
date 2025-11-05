@@ -115,7 +115,44 @@ https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_03_41_7526c02d-4c1e-4885-b4eb
 https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_01_27_75975662-5155-43a6-abd5-f1482762cfcb/PROD_CMAF_CENC/index-dash.mpd
 #EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/otf/720x0/2025/05/25/piala-dunia-u-17-fifa-2025-qatar_ratio-16x9.jpg" group-title="World Cup U-17", Piala Dunia U17
 https://9b663bb2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+--------
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 19:30 WIB Tajikistan vs Republik Ceko
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=yAOfT-SEE96h2bTrhyOWw8Y8NrLI09dHXfCO-aupPiChFOBNNZV6HHNENpDPXuTlvyqlBNL3S9SeYNDaS9w_v1caQKIv3TrT2enbs-o1nmY=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_14_56_48_779830ab-2868-4b55-ace4-f827414519f3/PROD_CMAF_CENC/index-dash.mpd
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 19:30 WIB Panama vs Republik Irlandia
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=AA8mt0JvfBN2DjCwCyPviCE2oVtWNaF__EhBYRVysI-lAnOtScUPRSTXSHBGC64h5w_1bnFXz1pT7AgdnJSS0T_vUCsj55YgyiVfh-u5CFI=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_14_53_05_29396cff-23f6-4362-8887-8a03f070708a/PROD_CMAF_CENC/index-dash.mpd
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:00 WIB Paraguay vs Uzbekistan
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=TJM1i8DbIMlDyM8FUXa61XKW2gCsLAV7FadpFHYnYwjOovwUn8kqXTlbHxaZYoOBtAB1n2yeC3Wjn2LjOZIQOG6Q9QohFYF8jae-endsxIc=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_15_39_28_45767c2d-d3a4-4b5c-9c06-6c60605c476e/PROD_CMAF_CENC/index-dash.mpd
 
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:30 WIB Austria vs Arab Saudi
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=OefVM0jIi_iOKqx5PNfXxqa6nFheNAsk-mMnWvFIErNDwwzaT7IMfmlXFNjmFHwp7ZCpzyFsncG4D9LeatJw01Dyrctj8XYTPBuL687Uvz4=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_14_41_23_e12767a3-c30f-436a-93b3-41b65d760aa8/PROD_CMAF_CENC/index-dash.mpd
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 21:45 WIB Mali vs Selandia Baru
+https://shorter.me/p9Kgz
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:15 WIB Amerika Serikat vs Burkina Faso
+https://shorter.me/fBZc2
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Kanada vs Uganda
+https://shorter.me/GCoMP
+EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Prancis vs Chile
+https://shorter.me/pMpdk
+
+<===============
 
 =================
 END KUALIFIKASI PIALA DUNIA

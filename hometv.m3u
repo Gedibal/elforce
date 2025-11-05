@@ -88,19 +88,24 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/356598
 #EXTINF:-1 tvg-id="" tvg-name="CazéTV 01" tvg-logo="https://www.fontedecanais.app/logos/canais/cazetv.png" group-title="World Cup U-17",CazéTV 01
 http://seven7play.top:80/JOTAXVI123/Senha1234/1757.ts
-
 #EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", FIFA+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=424EKsfJFusVFCDE4idBjd5Tr8ejzlnUdGaSSfOyqfBefcGBrLxpVm-bCq2zNouG173jIzQSPxXa6N5MHjX_k5LP1tA-9kTaU37mXP84yJo=
 https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
+#EXTINF:-1 tvg-id="foxsports2uhd4k" tvg-name="FOX Sports 2 UHD/4K" tvg-logo="http://www.ass-security.fr/blog/wp-content/uploads/2015/07/4K-Ultra-HD_logo_Full-Color1.png" group-title="FOX Sports 2 UHD/4K
+http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/592596.ts
+
+==============
 #EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", FIFA+ 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=oIPIC864-46-8-U9LWLA0mN_6uFe9tyQfVMwUsyNpzv1G1c4sIUuOdvXRirO-_DqSmJ2fixxSHoI374vJKGIUD_aK1hSxyNiPIxz9x0g-wc=
 https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_05_23_0fd6da8e-8518-4ad0-90b7-162de2c1e30d/PROD_CMAF_CENC/index-dash.mpd
+
+
 #EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", FIFA+ 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash

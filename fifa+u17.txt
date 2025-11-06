@@ -78,3 +78,41 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cosd1/playlist.m3
 #EXTINF:0 group-title="World Cup U-17" tvg-logo="https://sta.vnres.co/file/common/20251103/d1b8b7bc2e798b41d8ae72ea77c0362b.png",20h00 06/11 Japan U17 vs New Caledonia U17 [BLV AK47] 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912092_lsd.flv?auth_key=1762435044-0-0-6d344a385e203c2c60a768c1fe511cec
+=====
+========= KBRtv======
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 19:30 WIB Bolivia vs Italia
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=jbWvrHR34CgYZZ6b5ioNLseOAJIWypeTSV4-zi9NsVmg-bRBVfOeAeGg95LxPJEhLXp2iVN3aG9Rh-yjQwsXF3Q1-2_bmEfpkwT-pzGpbaU=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_16_17_50_ed2708c6-e8e1-43b2-b71e-fb3a32db6484/PROD_CMAF_CENC/index-dash.mpd
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 19:30 WIB Portugal vs Maroko
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=9PmxRo5YTm0UIDMZUwhSLCm0wNqYAbVTv97RRvYiOUIACIdb8M4M253Xd7nzy6Gs4HuvUAU7sD1cVm9QS2ylplo0f-6dZrvcLKTd94uX7ss=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_16_11_07_bf00e010-2be9-49f6-98fc-f4c3d04581dd/PROD_CMAF_CENC/index-dash.mpd
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:00 WIB Jepang vs Kaledonia Baru
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=XW0bROebacX0WV96CfBVbROUyP8GQOATloXsE1BmHnuNWhMghN7xm8EwLlYBZfWLUzwYhFFHXyb281K-LITe0J8Nb09eNGKBsyhfs6OvoPM=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_16_24_06_1372a7bb-7f54-4802-b08a-3856099f740b/PROD_CMAF_CENC/index-dash.mpd
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:30 WIB Argentina vs Tunisia
+https://shorter.me/IrEKt
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 21:45 WIB Fiji vs Belgia
+https://shorter.me/9WbAA
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:15 WIB Uni Emirat Arab vs Kroasia
+https://shorter.me/3NPdD
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Qatar vs Afrika Selatan
+https://shorter.me/5mGOW
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Senegal vs Kosta Rika
+https://shorter.me/7QYoK

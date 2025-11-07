@@ -96,6 +96,39 @@ http://seven7play.top:80/JOTAXVI123/Senha1234/1757.ts
 https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
 #EXTINF:-1 tvg-id="foxsports2uhd4k" tvg-name="FOX Sports 2 UHD/4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Fox_Sports_2_logo.png/250px-Fox_Sports_2_logo.png" group-title="World Cup U-17" Fox Sport 2
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/592596.ts
+=============
+
+EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 19:30 WIB El Salvador vs Kolombia
+https://shorter.me/5XxIF
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 19:30 WIB Inggris vs Haiti
+https://shorter.me/WvZnd
+
+#EXTINF:-1 group-title="World Cup U-17 tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 19:30 WIB Inggris vs Haiti
+https://shorter.me/WvZnd
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:00 WIB Jerman vs Korea Utara
+https://shorter.me/fKN-6
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:30 WIB Mesir vs Venezuela
+https://shorter.me/NgzOq
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 21:45 WIB Meksiko vs Pantai Gading
+https://shorter.me/_Lrb6
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:15 WIB Swiss vs Korea Selatan
+https://shorter.me/XJr4g
+
+#EXTINF:-1 group-title="World Cup U-17 tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Brasil vs Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Zambia vs Honduras
+https://shorter.me/CAGNI
+
+
 
 ==============
 #EXTINF:0 group-title="World Cup U-17" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144534_ce424b12.png",19:30 07/11 England U17 vs Haiti U17  HD

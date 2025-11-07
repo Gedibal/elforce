@@ -116,3 +116,25 @@ https://shorter.me/5mGOW
 
 #EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Senegal vs Kosta Rika
 https://shorter.me/7QYoK
+
+=========== 07/11=======
+#EXTINF:0 group-title="World Cup U-17" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144534_ce424b12.png",19:30 07/11 England U17 vs Haiti U17  HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="World Cup U-17" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144536_1e611b80.png",20:00 07/11 Germany U17 vs Korea DPR U17 HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="World Cup U-17" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144550_35296572.png",22:15 07/11 Switzerland U17 vs Korea Republic U17 HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="World Cup U-17" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_145005_e0e97e34.png",22:45 07/11 Brazil U17 vs Indonesia U17 HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
+#EXTINF:0 group-title="World Cup U-17" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_145005_e0e97e34.png",22:45 07/11 Brazil U17 vs Indonesia U17 HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun.flv

@@ -64,3 +64,11 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1, group-title="SPORT" Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+="http://173.249.36.238:25461/images/d7e47dfa2fef471cce436e6c782d4806.png" group-title="BEIN SPORTS  [FREE SERVER]",beIN SPORTS News
+http://173.249.36.238:25461/849431279/freeiptvgen/19957450.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 FHD new" tvg-logo="http://173.249.36.238:25461/images/80d8033e39a365b883f7eab28bd8f6bc.png" group-title="BEIN SPORTS  [FREE SERVER]",BeIN SPORTS 1 FHD
+http://173.249.36.238:25461/849431279/freeiptvgen/19957454.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 FHD" tvg-logo="http://173.249.36.238:25461/images/02cc32a73fa3cd9c58f606c860485665.png" group-title="BEIN SPORTS  [FREE SERVER]",BeIN SPORTS 2 FHD
+http://173.249.36.238:25461/849431279/freeiptvgen/19957455.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 FHD" tvg-logo="http://173.249.36.238:25461/images/46ccb3f39978c0725bb9cc25308cce89.png" group-title="BEIN SPORTS  [FREE SERVER]",BeIN SPORTS 3 FHD
+http://173.249.36.238:25461/849431279/freeiptvgen/19957456.ts

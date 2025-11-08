@@ -38,6 +38,8 @@ https://tiger-hub.vercel.app/TNT-Sports_2/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704072048",TNT Sports 4
 https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 EXTINF:-1 tvg-id="spotvph11" tvg-name="SPOTV HD (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="SPORT",SPOTV HD
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 

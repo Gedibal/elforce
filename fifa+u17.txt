@@ -170,4 +170,21 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudy
 #EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Zambia vs Honduras
 https://shorter.me/CAGNI
 
+==========08/11=====
 
+EXTINF:0 group-title="World Cup U-17" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6592_small.png",19:30 11/08 Czechia U17 và Burkina Faso U17 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x7/playlist.m3u8
+#EXTINF:0 group-title="World Cup U-17" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1763780_small.png",19:30 11/08 Uganda U17 và Chile U17 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x8/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6592_small.png",19:30 ngày 11/08 Czechia U17 và Burkina Faso U17 (Mãn nhãn) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x7/playlist.m3u8
+#EXTINF:0 group-title="World Cup U-17" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1763780_small.png",19:30  11/08 Uganda U17 và Chile U17 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x8/playlist.m3u8

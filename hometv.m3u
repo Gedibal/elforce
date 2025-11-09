@@ -114,6 +114,8 @@ https://wtyi0525.edgemaxcdn.org/live/saoke3x7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x8/playlist.m3u8
+#EXTINF:-1 tvg-id="usfoxsoccerplus" tvg-name="US: Fox Soccer Plus" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="World Cup U-17",US: Fox Soccer Plus
+http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418210.ts
 
 <===============
 

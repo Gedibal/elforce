@@ -275,3 +275,15 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
+
+=================ESPN========
+#EXTINF:-1 tvg-id="usespn" tvg-name="US: ESPN" tvg-logo="https://i.ibb.co/DMYC7qF/espn.png" group-title="SPORT",US: ESPN
+http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418175.ts
+#EXTINF:-1 tvg-id="usespn2" tvg-name="US: ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="SPORT",US: ESPN 2
+http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418173.ts
+#EXTINF:-1 tvg-id="usespn3" tvg-name="US: ESPN 3" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="USA SPORTS HD",US: ESPN 3
+http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418207.ts
+#EXTINF:-1 tvg-id="usespnnews" tvg-name="US: ESPN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="SPORT",US: ESPN NEWS
+http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418174.ts
+#EXTINF:-1 tvg-id="usespnu" tvg-name="US: ESPN U" tvg-logo="https://hd-report.com/wp-content/uploads/2014/03/ESPNU-HD-logo.png" group-title="SPORT",US: ESPN U
+http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418176.ts

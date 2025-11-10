@@ -296,22 +296,22 @@ http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418176.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(ESPN_HD)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM 2",ESPN SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM",ESPN SD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM 2",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM",ESPN 2 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM 2",ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM",ESPN 3 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM 2",ESPN 4 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM",ESPN 4 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
        
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM 2",ESPN 5 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM",ESPN 5 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM 2",ESPN 6 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORT PREMIUM",ESPN 6 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 
 ========Fox sport =======
@@ -319,105 +319,105 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=00000000-0000-0000-0000-000000000000&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=00000000-0000-0000-0000-000000000000&deviceLat=33.7900&deviceLon=-117.9300&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=US&serverSideAds=true&sessionID=717add91-b7d0-11ef-9fa7-82d6fe8cdc09&sid=717add91-b7d0-11ef-9fa7-82d6fe8cdc09&userId=
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="FOX SPORTS 3.mx"  tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="SPORT PREMIUM 2", FOX SPORTS 3 🇲🇽
+#EXTINF:-1 tvg-id="FOX SPORTS 3.mx"  tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="SPORT PREMIUM", FOX SPORTS 3 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"  tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="SPORT PREMIUM 2", FOX SPORTS PREMIUM 🇲🇽
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"  tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="SPORT PREMIUM", FOX SPORTS PREMIUM 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="SPORT PREMIUM 2", FOX SPORTS 🇲🇽 🟡
+#EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="SPORT PREMIUM", FOX SPORTS 🇲🇽 🟡
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://i.ibb.co.com/fvP8vKX/fxsp2mx.png" group-title="SPORT PREMIUM 2", FOX SPORTS 2 🇲🇽 🟡
+#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://i.ibb.co.com/fvP8vKX/fxsp2mx.png" group-title="SPORT PREMIUM", FOX SPORTS 2 🇲🇽 🟡
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS 3.mx"  tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="SPORT PREMIUM 2", FOX SPORTS 3 🇲🇽 🟡
+#EXTINF:-1 tvg-id="FOX SPORTS 3.mx"  tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="SPORT PREMIUM", FOX SPORTS 3 🇲🇽 🟡
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"  tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="SPORT PREMIUM 2", FOX SPORTS PREMIUM 🇲?? 🟡
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"  tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="SPORT PREMIUM", FOX SPORTS PREMIUM 🇲?? 🟡
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 =============Sportv==========
-#EXTINF:-1 tvg-id="SporTV 2.br" tvg-logo="https://i.ibb.co.com/VNdT7qg/sportv2.png" group-title="SPORT PREMIUM 2", SPORTV2 🇧🇷
+#EXTINF:-1 tvg-id="SporTV 2.br" tvg-logo="https://i.ibb.co.com/VNdT7qg/sportv2.png" group-title="SPORT PREMIUM", SPORTV2 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORT PREMIUM 2", SPORTV3 🇧🇷
+#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORT PREMIUM", SPORTV3 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORT PREMIUM 2", SPORTV3 🇧🇷
+#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORT PREMIUM", SPORTV3 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
 https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd
 
 ============= TSN ==========
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.ibb.co.com/HYzgFbZ/tsn1.png" group-title="SPORT PREMIUM 2", TSN 1 🇨🇦
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.ibb.co.com/HYzgFbZ/tsn1.png" group-title="SPORT PREMIUM", TSN 1 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://i.ibb.co.com/5r1nzp5/tsn2.png" group-title="SPORT PREMIUM 2", TSN 2 🇨🇦
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://i.ibb.co.com/5r1nzp5/tsn2.png" group-title="SPORT PREMIUM", TSN 2 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://i.ibb.co.com/r6FWmrW/tsn3.png" group-title="SPORT PREMIUM 2", TSN 3 🇨🇦
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://i.ibb.co.com/r6FWmrW/tsn3.png" group-title="SPORT PREMIUM", TSN 3 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://i.ibb.co.com/PxGj1GQ/tsn4.png" group-title="SPORT PREMIUM 2", TSN 4 🇨🇦
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://i.ibb.co.com/PxGj1GQ/tsn4.png" group-title="SPORT PREMIUM", TSN 4 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://i.ibb.co.com/F4dfsDM/tsn5.png" group-title="SPORT PREMIUM 2", TSN 5 🇨🇦
+#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://i.ibb.co.com/F4dfsDM/tsn5.png" group-title="SPORT PREMIUM", TSN 5 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://i.ibb.co.com/XthghZr/sportv.png" group-title="SPORT PREMIUM 2", SPORTV 🇧🇷
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://i.ibb.co.com/XthghZr/sportv.png" group-title="SPORT PREMIUM", SPORTV 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="SporTV 2.br" tvg-logo="https://i.ibb.co.com/VNdT7qg/sportv2.png" group-title="SPORT PREMIUM 2", SPORTV2 🇧🇷
+#EXTINF:-1 tvg-id="SporTV 2.br" tvg-logo="https://i.ibb.co.com/VNdT7qg/sportv2.png" group-title="SPORT PREMIUM", SPORTV2 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORT PREMIUM 2", SPORTV3 🇧🇷
+#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORT PREMIUM", SPORTV3 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORT PREMIUM 2", SPORTV3 🇧🇷
+#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://i.ibb.co.com/bKFPjGM/sportv3.png" group-title="SPORT PREMIUM", SPORTV3 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
 https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd

@@ -281,7 +281,7 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418175.ts
 #EXTINF:-1 tvg-id="usespn2" tvg-name="US: ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="SPORT",US: ESPN 2
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418173.ts
-#EXTINF:-1 tvg-id="usespn3" tvg-name="US: ESPN 3" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="USA SPORTS HD",US: ESPN 3
+#EXTINF:-1 tvg-id="usespn3" tvg-name="US: ESPN 3" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="SPORT",US: ESPN 3
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418207.ts
 #EXTINF:-1 tvg-id="usespnnews" tvg-name="US: ESPN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="SPORT",US: ESPN NEWS
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418174.ts

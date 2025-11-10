@@ -96,10 +96,19 @@ http://seven7play.top:80/JOTAXVI123/Senha1234/1757.ts
 https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Fox_Sports_2_logo.png/250px-Fox_Sports_2_logo.png" group-title="World Cup U-17", live
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/592596.ts
-=============
-
 #EXTINF:-1 tvg-id="usfoxsoccerplus" tvg-name="US: Fox Soccer Plus" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="World Cup U-17",US: Fox Soccer Plus
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/418210.ts
+
+=============
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 21:45 WIB Zambia vs Brasil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+#EXTINF:-1 group-title="World Cup U-17" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 21:45 WIB Honduras vs Indonesia
+https://shorter.me/DGGMW
+
+
 
 <===============
 

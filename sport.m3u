@@ -315,7 +315,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 
 ========Fox sport =======
-#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf-us" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="2790" group-title="SPORT PREMIUM", FOX Sports
+#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf-us" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="2790" group-title="SPORT PREMIUM", FOX Sports ?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=00000000-0000-0000-0000-000000000000&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=00000000-0000-0000-0000-000000000000&deviceLat=33.7900&deviceLon=-117.9300&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=US&serverSideAds=true&sessionID=717add91-b7d0-11ef-9fa7-82d6fe8cdc09&sid=717add91-b7d0-11ef-9fa7-82d6fe8cdc09&userId=
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false

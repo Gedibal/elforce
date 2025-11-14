@@ -416,6 +416,11 @@ https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue
 http://filex.me:8080/live/000003/000003/52094.m3u8
 *https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 *http://filex.tv:8080/live/Multicity/1234/52094.m3u8
+#EXTINF:-1 group-title="SPORT PREMIUM"" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg",Star Sports Select 1
+http://66.102.120.18:8000/play/a06x/index.m3u8
+
+#EXTINF:-1 group-title="SPORT PREMIUM"" tvg-logo="http://ujm.from-in.com/imageicon/StarSportsSelect2HD.png",Star Sports Select 2
+http://66.102.120.18:8000/play/a06y/index.m3u8
 
 
 

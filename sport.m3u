@@ -411,6 +411,11 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #KODIPROP:inputstream.adaptive.license_key=cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
 https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd
 
+===============Star sports=========
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="http://ujm.from-in.com/imageicon/13e1ff38",Star Sports 1 HD
+http://filex.me:8080/live/000003/000003/52094.m3u8
+*https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
+*http://filex.tv:8080/live/Multicity/1234/52094.m3u8
 
 
 

@@ -421,7 +421,7 @@ http://66.102.120.18:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="http://ujm.from-in.com/imageicon/StarSportsSelect2HD.png",Star Sports Select 2
 http://66.102.120.18:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/panel/imageicon/4fa225b.png",Sony Ten 1
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="http://ujm.from-in.com/panel/imageicon/4fa225b.png",Sony Ten 1
 http://103.122.252.100:8080/SONY-TEN-1/index.fmp4.m3u8?token=84e7eaccbab8a5e7d6bd836cb71eb1e9bfb85cb8-94f7996b7920a4f811ca8a3371900322-1756013266-1756002466
 **http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052689.m3u8
 

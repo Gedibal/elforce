@@ -3349,7 +3349,7 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 c63e5e3a45d624b24884ac677337248653fb9c3929d803ffeaf1cb3e3ee1a0c9e591bbe1d0a2097da12c5937fb1b8cc3a06b83fc47be375f3ce6e2ac4e0866fec9c3c640bd631b5958d18c3aaa0d54a82080d8de15441bd19e7837f40cdb312f6797b3df05b1cb5cf85be6ec8c119dface04870239d3667beaf73ff8138c1e3204ca115ffdf91ff52c7567291451826575cb4cf728e8%26cid%3DYvoz9_UXqTEZam7X2zhhz250903%26_v%3D2%26_r%3DeDnTn4%26_vis%3D9d3a0dcbe95c366fd0e29028463c7bb3f2fa6cd298e988c462bd2bed53ca560d%26_vvs%3D868eeb538539413e128a1b99897964e66002631092dc410b6306ad9013053a6d/transcode/c369591_480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Indosiar.png" group-title="LIVE-EVENT", Indosiar FHD VIP
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://mpwtv.github.io/indosiar.m3u8
+http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 
 #######$#####$$$$$$$$####################
 #EXTINF:-1 tvg-id="PL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpeX6xrZP32SHBfDPZciY-PHuQqoAaVTsgKqaWxPexGQ&s" group-title="LIVE-EVENT", DENSTV

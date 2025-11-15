@@ -881,6 +881,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7cf6c7b156d500078c5f
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/c2/dd/3a/c2dd3ac14318c9fa5c344ddca01c910d.jpg" group-title="🔵KIDSTV"
 
+
+EXTINF:-1 tvg-id="Babyshark.us" group-title="🔵KIDSTV" tvg-logo="https://i.postimg.cc/2SdyBfGr/IMG-2793.png", Baby Shark TV
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/00/99/c4009958f48bf6c46b74f5ac27b6e70a.jpg" group-title="🔵KIDSTV" tvg-id="KidsTV.id" tvg-name="Kids TV - [Channel 46].id", KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1

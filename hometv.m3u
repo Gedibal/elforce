@@ -3382,6 +3382,9 @@ http://filex.tv:8080/live/Home329/Sohailhome/302264.m3u8
 #EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/15830.png",14:30 17/11 Persipal vs Persiba Balikpapan 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/3882.png",19:00 17/11 PSS Sleman vs Persiku Kudus 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
 ===========================================================
 
 =============== Badminton =========

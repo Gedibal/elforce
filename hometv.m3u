@@ -3394,12 +3394,14 @@ http://filex.tv:8080//live/shafiq02/1234/302264.ts
 
 ##############$$############ Alternatif liga BRI #######$$$$#####$$$$$
 
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/11130.png",15:30 19/11 Persekat vs Garudayaksa 
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/11132.png",15:30 20/11 Persijap vs Semen Padang 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/2454.png",15:30 19/11 Sriwijaya FC vs Persikad Depok FC 
+https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
+#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/2445.png",19:00 21/11 Persib Bandung vs Dewa United 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/aklh087186/playlist.m3u8===========================================================
+https://livestream.waebox.com/live/aklh087186/playlist.m3u8
+
+
 
 =============== Badminton =========
 

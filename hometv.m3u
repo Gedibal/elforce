@@ -3390,7 +3390,7 @@ http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
 https://spacetv.my.id/index.mpd?id=19488&type=dash
 #EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR Digital
-http://filex.tv:8080//live/shafiq02/1234/302264.ts
+http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 
 ##############$$############ Alternatif liga BRI #######$$$$#####$$$$$
 

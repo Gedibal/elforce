@@ -555,12 +555,7 @@ https://popmi.my.id/tes.m3u8?id=7218
 <================ Knowledge & Documentary ==========================>
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://statik.tempo.co/data/2023/07/01/id_1216192/1216192_720.jpg" group-title="Knowledge & Documentary", NATGEO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5
-https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
-
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.pinimg.com/originals/0e/1b/89/0e1b89a4f2fa743ddf63c661eac2d2c3.jpg" group-title="Knowledge & Documentary", NATGEO WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/

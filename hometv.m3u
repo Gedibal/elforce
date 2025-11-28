@@ -3397,12 +3397,6 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 http://vipboacnn.top:8080/VIP013791744272390384/0c414a9db73e/34327
 ##############$$############ Alternatif liga BRI #######$$$$#####$$$$$
 
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/11132.png",15:30 20/11 Persijap vs Semen Padang 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:0 group-title="LIVE-EVENT" tvg-logo="https://media.api-sports.io/football/teams/10134.png",19:00 20/11 Persija vs Persik Kediri
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
 
 
 =============== Badminton =========

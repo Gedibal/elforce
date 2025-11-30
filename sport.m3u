@@ -515,4 +515,38 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https
 
+======================Arena sport==========
+#EXTINF:-1 cuid="500" tvg-id="Arena.Sport.1.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORT PREMIUM",❖ Arena Sport 1 🇭🇷
+http://185.166.252.230/Arena1/index.m3u8?@iprtlk
+
+#EXTINF:-1 cuid="502" tvg-id="Arena.Sport.2.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORT PREMIUM",❖ Arena Sport 2 🇭🇷
+http://185.166.252.230/Arena2/index.m3u8?@iprtlk
+
+#EXTINF:-1 cuid="504" tvg-id="Arena.Sport.3.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena3.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORT PREMIUM",❖ Arena Sport 3 🇭🇷
+http://185.166.252.230/Arena3/index.m3u8?@iprtlk
+
+#EXTINF:-1 cuid="506" tvg-id="Arena.Sport.4.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORT PREMIUM",❖ Arena Sport 4 🇭🇷
+http://185.166.252.230/Arena1/index.m3u8?@iprtlk
+
+#EXTINF:-1 cuid="508" tvg-id="Arena.Sport.5.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORT PREMIUM",❖ Arena Sport 5 🇭🇷
+http://185.166.252.230/Arena5/index.m3u8?@iprtlk
+
+#EXTINF:-1 cuid="510" tvg-id="Arena.Sport.6.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena6.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORT PREMIUM",❖ Arena Sport 6 🇭🇷
+http://185.166.252.230/Arena6/index.m3u8?@iprtlk
+
+#EXTINF:-1 cuid="511" tvg-id="Arena.Sport.7.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena7.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORT PREMIUM",❖ Arena Sport 7 🇭🇷
+http://185.166.252.230/Arena7/index.m3u8?@iprtlk
+
+#EXTINF:-1 cuid="512" tvg-id="Arena.Sport.8.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena8.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORT PREMIUM",❖ Arena Sport 8 🇭🇷
+http://185.166.252.230/Arena8/index.m3u8?@iprtlk
+
+#EXTINF:-1 cuid="513" tvg-id="Arena.Sport.9.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena9.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORT PREMIUM",❖ Arena Sport 9 🇭🇷
+http://185.166.252.230/Arena9/index.m3u8?@iprtlk
+
+#EXTINF:-1 cuid="514" tvg-id="Arena.Sport.10.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena10.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORT PREMIUM",❖ Arena Sport 10 🇭🇷
+http://185.166.252.230/Arena10/index.m3u8?@iprtlk
+
+
+
+
 

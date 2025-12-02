@@ -63,9 +63,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="BOLA | KUALIFIKASI PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", Live sport AFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
-#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_4279863_1.m3u8?hls_ctx=asm968sd&sign=NT_MrWefMZcTWSuCrETP0KnKgW-2TtuVqUW0Pv1gxJiRk7zWrPSYuG3trRewli6nJnFPfe96hfNLVkg5lpnLNfAdUMOnUpdU28np1BCnbgzJevw3KdiBY_dim3d5Dc_hCYJ1nhLp9X0j1625j_sBhq1QvNwrKXqY0oJHAzqTqRDBG6JewTpBPSrV1VWEUdM6IcJcL9EEgaiAERgP_uxDK2_VQX7rhTGIOBT4caE9KepjLGS10DXRzpuL1eTVyfdVVoikqqFXMEoB-nTgwna3k_SaiZlo4lKFxPNeZ3Q8oEceY63voi-5l07SoU2xsQkbDPDaVW3Ms-pjT3F_5ccerA&timestamp=1760210325403
+https://github.com/Gedibal/elforce/raw/refs/heads/main/live/arena2.m3u8
+
 #EXTINF:-1 group-title="BOLA | KUALIFIKASI PIALA DUNIA" tvg-id="" tvg-logo="http://jasaroot.biz.id/logo/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
 https://wahyu1ptv.pages.dev/ScTv-HD.m3u8

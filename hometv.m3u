@@ -62,7 +62,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="BOLA | KUALIFIKASI PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", Live sport AFC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://github.com/Gedibal/elforce/raw/refs/heads/main/live/arena2.m3u8
 
 #EXTINF:-1 group-title="BOLA | KUALIFIKASI PIALA DUNIA" tvg-id="" tvg-logo="http://jasaroot.biz.id/logo/sctv.png",SCTV

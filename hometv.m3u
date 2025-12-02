@@ -3778,7 +3778,7 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astrofootball.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", CH 3
-https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8cenc.mpd?encoding=segmentBase
+https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", CH 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

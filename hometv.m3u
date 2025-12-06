@@ -3974,18 +3974,6 @@ http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563384.mp4
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/c4/b7/48/c4b74881b961cb2f2d26bc1dfe355e3a.jpg" group-title="INFORMASI🔵🔵🔵🔵"
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/b7/48/c4b74881b961cb2f2d26bc1dfe355e3a.jpg" group-title="INFORMASI🔵🔵🔵🔵", SPORT+ / SEMUA LIGA
-https://ss04.silkanu.cc/data/2/672b034ebec21/hls720/672b034ebec21720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/b7/48/c4b74881b961cb2f2d26bc1dfe355e3a.jpg" group-title="INFORMASI🔵🔵🔵🔵", INDO EVEN playlist AFC dan olahraga random lokal
-https://ss04.silkanu.cc/data/2/672b034ebec21/hls720/672b034ebec21720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/b7/48/c4b74881b961cb2f2d26bc1dfe355e3a.jpg" group-title="INFORMASI🔵🔵🔵🔵", MOVI INDO DI PUSTAKA MEDIA
-https://ss04.silkanu.cc/data/2/672b034ebec21/hls720/672b034ebec21720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/b7/48/c4b74881b961cb2f2d26bc1dfe355e3a.jpg" group-title="INFORMASI🔵🔵🔵🔵", GUNAKAN PLAYER EXTERNAL (VLC PLAYER) CONTROL DURASI
-https://ss04.silkanu.cc/data/2/672b034ebec21/hls720/672b034ebec21720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
 ==========================================mp4=================================
 
 #EXTINF:-1 channel-id="pluto-569546031a619b8f07ce6e25" tvg-id="569546031a619b8f07ce6e25" tvg-logo="https://i.pinimg.com/236x/f1/d4/5e/f1d45e2ab1f3f3401e35cbd6d5bb1a39.jpg" group-title="🔵FILM" , HRR
@@ -4003,9 +3991,6 @@ https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ce/a9/89/cea98911a06a830c5da5e57bce4b7827.jpg" group-title="🔵FILM",Ast SKY 2
 https://fl5.moveonjoy.com/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ce/a9/89/cea98911a06a830c5da5e57bce4b7827.jpg" group-title="》FAS_&_LIFE", Ast Rania
-https://smart.pendy.dpdns.org/Smart.php?id=Rania
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ce/a9/89/cea98911a06a830c5da5e57bce4b7827.jpg" group-title="》NAT_&_KNOW", Ast Aura
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 

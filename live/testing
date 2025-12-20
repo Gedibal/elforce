@@ -1,6 +1,0 @@
-df = (
-    spark.read
-        .format("excel")
-        .option("headerRows", 1)
-        .load("/Volumes/onehouse_eu_dev_dtu_cnpscos/cnpscos_silver/compact_carton/Comp_Carton_Volume.xlsx")
-    )

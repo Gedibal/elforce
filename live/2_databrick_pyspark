@@ -28,3 +28,6 @@ df = (
     .option("dataAddress", sheet_name)
     .load( f"/Volumes/{dtu_catalog}/{dtu_schema}/compact_carton/{file_name}")
 )
+
+display(spark.sql("DESCRIBE EXTENDED {}".format(TABLE_CONFIGS[0]["target_table"])))
+// TO list all columns name, data type and comment of columns in a table

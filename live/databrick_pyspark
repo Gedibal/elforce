@@ -1,0 +1,20 @@
+display(dbutils.fs.ls("/Volumes/onehouse_eu_dev_dtu_cnpscos/cnpscos_silver/compact_carton/"))
+
+df = (
+    spark.read.format("excel")
+    .option("header", "true")
+    .option("headerRows", 2)
+    .option("dataAddress", sheet_name)
+    .load(f"/Volumes/{dtu_catalog}/{dtu_schema}/compact_carton/{file_name}")
+)
+
+df = df.withColumnsRenamed(
+    {
+        "Divison": "division", 
+        "SPP (€/1000pcs)": "spp_eur_per_1000pcs"
+    }
+)
+
+df = df.withColumn(
+    "division", expr(f"try_cast({"division"} as {"string"})")
+)

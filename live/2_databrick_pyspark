@@ -31,3 +31,6 @@ df = (
 
 display(spark.sql("DESCRIBE EXTENDED {}".format(TABLE_CONFIGS[0]["target_table"])))
 // TO list all columns name, data type and comment of columns in a table
+
+dbutils.widgets.text("file_name", defaultValue="Comp_Carton_LogisticsCost.xlsx", label="File Name")
+file_name = dbutils.widgets.get("file_name")

@@ -18,3 +18,13 @@ df = df.withColumnsRenamed(
 df = df.withColumn(
     "division", expr(f"try_cast({"division"} as {"string"})")
 )
+
+# Speark read excel file
+df = (
+    spark.read.format("excel")
+    .option("header", "true")
+    .option("headerRows", 2)
+    .option("inferSchema", "true")
+    .option("dataAddress", sheet_name)
+    .load( f"/Volumes/{dtu_catalog}/{dtu_schema}/compact_carton/{file_name}")
+)

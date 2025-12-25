@@ -1,0 +1,12 @@
+dtu_catalog = dbutils.widgets.get("dtu_catalog")
+
+query= f"""
+CREATE OR REPLACE TABLE {dtu_catalog}.cnp4gen_silver.coolfarm_table AS 
+SELECT * FROM read_files(
+  '/Volumes/{dtu_catalog}/cnp4gen_silver/volume_coolfarm/250715_EXT_FARM_CONSOLIDATION_update.csv',
+  format=> 'csv',
+  header=> 'true',
+  delimiter=> ';'
+);"""
+
+spark.sql(query)

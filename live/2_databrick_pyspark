@@ -34,3 +34,15 @@ display(spark.sql("DESCRIBE EXTENDED {}".format(TABLE_CONFIGS[0]["target_table"]
 
 dbutils.widgets.text("file_name", defaultValue="Comp_Carton_LogisticsCost.xlsx", label="File Name")
 file_name = dbutils.widgets.get("file_name")
+
+
+dbutils.widgets.text("dtu_catalog", defaultValue="onehouse_eu_dev_dtu_cnpscos", label="Catalog Name")
+dbutils.widgets.text("dtu_schema", defaultValue="cnpscos_silver", label="Schema Name")
+
+dtu_catalog = dbutils.widgets.get("dtu_catalog")
+dtu_schema = dbutils.widgets.get("dtu_schema")
+
+dbutils.secrets.list("platform-keyvault-managed")
+
+client_secret = dbutils.secrets.get(scope="platform-keyvault-managed", key="dtuCNPSCOS-appRegistrationClientSecret-eu-d")
+

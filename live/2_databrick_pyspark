@@ -46,3 +46,14 @@ dbutils.secrets.list("platform-keyvault-managed")
 
 client_secret = dbutils.secrets.get(scope="platform-keyvault-managed", key="dtuCNPSCOS-appRegistrationClientSecret-eu-d")
 
+To list column name, data type and description
+columns = spark.catalog.listColumns(
+    tableName=target_table
+)
+
+df_columns = spark.createDataFrame([
+    (col.name, col.dataType, col.description) for col in columns
+], ["name", "data_type", "description"])
+
+display(df_columns)
+

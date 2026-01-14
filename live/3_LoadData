@@ -11,7 +11,8 @@ SELECT * FROM read_files(
 
 spark.sql(query)
 
-
+# List contents of the volume after processing
+dbutils.fs.ls('/Volumes/onehouse_eu_dev_dtu_cnpscos/cnpscos_silver/caps')
 
 df = (
         spark.read.format("excel")

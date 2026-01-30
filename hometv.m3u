@@ -2476,7 +2476,24 @@ https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
+===========================Liga Tarkam =====================
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
+#EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/IcuTcR9lzxii55QefOY5ydqxCGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850530/ce3eee.jpg", 1
+https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19542&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
+#EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/PV8GqvhHdbiMCrEa_1GYKbCCVLw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850532/502c05.jpg", 2
+https://archertv.my.id/atraksi/vidx.mpd?id=19542&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
+#EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/DVm2nIUxdqRkgKrfo8j_00Wvwrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850531/583a2f.jpg", 3
+https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6685&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
+
+==================== Tarkam end ========
 
 ================================================= ☆SPORT+☆ =======================================================
 

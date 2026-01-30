@@ -2469,9 +2469,6 @@ https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="☆OLAHRAGA☆", Champions Golf 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="☆OLAHRAGA☆", Champions Golf 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
@@ -2492,6 +2489,12 @@ https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=mXepU5VJFAmemNj
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6685&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
+#EXTINF:-1  tvg-logo="https://i.imgur.com/e3RTub2.jpg" group-title="Liga Tarkam", INDOSIAR 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
 
 ==================== Tarkam end ========
 
